@@ -1,6 +1,6 @@
 
 <h1 align="left">Olá! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Rafael Almeida.</h1>
-🚀 Sou um Desenvolvedor de Software Fron-end <br>
+🚀 Sou um Desenvolvedor de Software Front-end <br>
  📚 Cursando Engenharia de Software e estudando diariamente de forma autodidata
  <br><br>
 Estou me esforçando para conseguir a minha primeira oportunidade como desenvolvedor! <br>
