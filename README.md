@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Explorando tecnologias e me desafiando cada vez mais através de projetos pessoais.
 - 🎓 &nbsp; Estudo Engenharia de Software e tenho alavancado meus conhecimentos com cursos extras de programação.
-- 🌱 &nbsp; Diariamente, venho desenvolvendo minhas habilidades em programação full-stack com Javascript.
+- 🌱 &nbsp; Diariamente, venho desenvolvendo minhas habilidades em programação full-stack com Javascript e Typescript.
 - 💭 &nbsp; Meu sonho é ser reconhecido como um desenvolvedor MVP pela Microsoft.
   <br><br>
 <h3> 🛠 &nbsp;Stack</h3>
